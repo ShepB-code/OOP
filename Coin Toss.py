@@ -11,6 +11,7 @@ def main():
 
        # Toss the coin.
        print('I am going to toss the coin ten times:')
+       
        for count in range(10):
            my_coin.toss()
            
